@@ -1,0 +1,86 @@
+* Changer boîte news accueil: actus empilées, dans tailles croissantes et défilent verticalement, première explose (jQuery) 
+* Script de concours (intra/extra forum)
+* Distinctions membres: affichées sur profil
+* Organisation docs: différentes catégories (Sciences, Littérature, Histoire, Sports, Société, etc...)
+* Membres profil: agenda, blog
+* Salles de chat privées, concernant un groupe/des personnes qui souhaitent parler ensemble/une équipe -> Poss de demander à un membre un chat instantané s'il est connecté
+* 7 grands moyens d'expression (autour desquels le site est axé) : Commentaires < Images < Musiques < Vidéos < Billets (entre le doc et le commentaire) < dOcs <  Projets
+* dOcTyPe Projets: poss création de projets: le membre donne un thème (public / privé / réservés à des persn déterminées) et les membres qui y ont accès peuvent créer des docs, ajouter des fichiers (vidéos, img, msq, etc...), des billets, des coms, des avis tournant autour de ce thème ==> le but: obtenir le plus d'information, les synthétiser facilement grâce à un script conçu à cet effet (une sorte de méga doc résumant tout le projet) avec interface graphique originale ; un projet bien conçu et rempli constituera une mine d'informations relatives au sujet dont il est question (pratique pour les exposés), et donnera goût à la recherche d'informations, de façon ludique.                                                         Cela fonctionne, pour les points, comme dans une entreprise (actionnaires>actions>dividendes) 
+* Exemple de Projet (système de points): Pour un Projet dont le thème est "Abeilles" qui a 100 pts (grâce à ses dOcs, ses Vidéos, et ses Billets), si un membre A ajoute au projet un doc "Ruches" et ce doc rapporte 10 pts au Projet (car il est noté 10 par quelqu'un), la part du membre A dans le projet est de 10*100/100 = 10% (10 pts représentent 10% des 100points du Projet, le membre A a donc contribué à 10% au pts du projet; Il est à 10% propriétaire du projet (comme un actionnaire dans une entreprise)). Si un membre B ajoute plus tard une vidéo "apiculture" qui fait gagner 5 pts au projet, le membre A, comme il est propriétaire à 10% du projet, empochera en plus, personnellement, 10%*5pts= 0,5pts. Les proportions des "actions" sont ensuite recalculées: maintenant que le projet a 115 pts, le membre A (qui a fait gagner 10pts) possède 8,7% du projet, le membre B (qui a fait gagner 5pts au proj.) possède 4,3%. Plus tard, quand le projet remportera, grâce à quelqu'un d'autre, x pts, A aura 8,6%*x pts, et B aura 4,3%*x pts. Puis, les proportions des actions seront recalculées.
+* Système d'équipes (membres alliés, qui peuvent faire des projets, des discussions, des docs, et de nombreuses autres choses en commun)
+* parrainage
+* concours / questions-rép / noter coms et top'iks
+* new classement (révision graphique) + classement Top'iks, Forums, Projets, Vidéos, Images, Musiques, Profils (membres), * Billets (sur blog), Equipes, etc...
+* moteur de recherches web (tous les gds moteurs de recherche)/ membres / img mus vid
+* API google/ Yahoo/ Yt /FB, etc...
+* new messagerie privée (api/widget?)
+* feedback / avis membres / livre d'or / rapport de bugs/ mantis
+* meilleure communication inter admins (Mantis, etc..)
+* Git /github
+* Wikimedia (wiki, etc...)
+* Favoris: docs, profils, etc...
+* Projets notés + que 10
+* docs groupés, docs modifiables par auteur sans mdp
+* pouvoir revenir sur ses notes
+* follow (suivre) un membre (actus profil, etc...)
+* doc: lire un doc aléatoire, proposition docs non notés
+* upload: img, vidéos, musiques ac auteur, possibilité de les télécharger/ rendre publiques ou privés sur profil, moteur de recherche img, mus, vid
+* Sitemap google
+* compte yt/ diaspora/ blog dT pour actus 
+* "coin des infos" -> ttes les actus
+* changer éditeur HTMl, poss insérer boîte de coms dans doc (ac administration)
+* profil: meilleur gestion des docs (afficher tab, poss modifier titre/contenu/thème/groupe/licence depuis profil
+* dOcs représentés par une image (choisie lors de la création du doc, pouvant être modifiée ultérieurement)
+* membres: poss créer forum  (sur blog profil)
+* meilleure communication
+* 3 obj: Social, Communicatif/Divertissant, Instructif
+* docs demandés: membres peuvent soumettre demande de création de doc, payée en points/ faux argt, récompensées?
+* contact webmasters, crédits, qui sommes nous?, fAQ, aide, partenariat
+* Code igniter
+* en parler sur sdz, recruter codeur
+* améliorer sécurité
+* micro bloging
+* Introduction Gravatar / Disqus?
+* Google Open Social
+* Profil: Affichage des billets, des vidéos, des musiques, des dOcs, des projets, des demandes, mini-forum, MP recodés (poss tous les supprimer, choisire fils de discussions, importants, poubelle, brouillons,etc...AJAX)
+* Possibilité de "follow" un forum/ top'ik
+* Amélioration RSS/ Atom
+* Accueil: lien Diaspora, Netvibes, SU, Y!, Goo, ajouter aux favoris
+* Profil: FB/Twitter/MSN/SU/Digg/MySpace/Yt du membre peuvent être affichés -> interaction ac dT?
+* Discussion privées / publiques / par groupes facilitées
+* Digg like
+* Paypal?
+* Coms (en tt genre (dOcs, News, Forum, Profil, Mini-forum, Question-Rép., etc...)): Possibilité de suivre le fil de discussion par mail
+* Créer widget "diffuser sur dT" (article, texte, site, blog)
+* Liste d'attente "à lire plus tard" pour dOcs
+* Version mobile
+* Messages Rapides
+* Création d'emails pour visiteurs
+* Localisations via GMap
+* Python / Java
+* Numéros de versions
+* Vérification des dOcs (vérificateurs)
+* Différentes langues (possibilité de traduire: le site, les coms, les docs, etc...)
+* Profil: Billets spéciaux visibles par certaines personnes (amis/personnes déterminées/équipe, etc...)
+* Profil d'équipe
+* Alléger scripts
+* Actualités monde (via Goo, Y!, etc...)
+* dOcs: création de Power points, excels, diaporamas...
+* HTML 5 (canevas, player flash, jeux vidéos, effets graphiques)
+* Création d'un navigateur (Qt)
+* lecteur de flux RSS? (Netvibes like)
+* aspect du site personnalisable (différentes feuilles de style CSS, à choisir)
+* Intégration de l'heure, de la date, de la météo (si voulu) sur Profils et Accueil
+* dOcs fusionnables, exportables/importables en différents fichiers, imprimables
+* Créer lecteur vidéo/musique dT avec options de notation
+* dOcs animés (effets, interaction (js))
+* Ds dOcs: poss d'insérer sondages, quizz, etc... avec statistiques
+* Statistiques de visites d'un Profil (publiques/privées)
+* Graph classement/ stat
+* Vidéo d'intro (comme Netvibes)
+* Tutos / Aide Vidéo
+* Commentaires autorisés pour non-inscrits (cf comme dans certains blogs)
+* dOcs & MP : sauvegarde automatique au bout de x secondes / manuelle (poss de faire des brouillons)
+purifier code / standards
+* dOcTyPe connectés : poss (selon certaines restrictions) de voir où sont les connectés (sur quelle page / quelle est leur activité)
+Amélioration de l'administration
